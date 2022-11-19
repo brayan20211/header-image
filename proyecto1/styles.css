@@ -7,8 +7,6 @@ body{
     background-position: center center;
     background-size: cover;
     min-height: 100vh;
-    
-
 }
 
 a{
@@ -28,7 +26,6 @@ header{
 .logo{
     display: flex;
     align-items: center;
-
 }
 
 .logo img{
@@ -40,7 +37,6 @@ header{
     height: 30px;
     margin-right: 10px;
     padding: 2px;
-    
 }
 @media (max-width:700px){
     header{
